@@ -1,2 +1,2 @@
-# Lab0VSCode-
-Screenshot of lab 0 VSCode set up assignment for COGS 3 
+# Lab 0 VSCode Screenshot
+# Screenshot of lab 0 VSCode setup assignment for COGS 3 
